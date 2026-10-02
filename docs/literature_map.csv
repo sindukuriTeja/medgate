@@ -1,0 +1,201 @@
+arxiv_id,date,title,themes
+2609.19585v1,2026-09-17,CliniCIRCA: A Modular LLM Framework for Constructing Longitudinal Mental Health Patient Journeys from Raw EHR Narratives,patient_communication;mental_health;clinical_evaluation;llm_foundation;ehr_clinical_data
+2608.22809v1,2026-08-24,SAGE: Stability-Aware Graph-Based Ensemble Feature Selection for Explainable Postpartum Depression Risk Prediction,patient_communication;diagnosis_prediction;mental_health;safety_bias_fairness;explainability
+2608.08566v1,2026-08-09,On-Device Multi-Species Malaria Detection with Uncertainty-Calibrated Slide-Level Aggregation,diagnosis_prediction
+2608.04273v1,2026-08-04,"Building and Governing AI Systems: Advancing Social Workers' Roles across the Technology Industry, Human Service Organizations, and Policy Institutions",mental_health
+2608.00419v1,2026-08-01,"Unleashing the Potential of Large Language Models: A Blueprint for Real-Time, Enterprise-Ready Deployments",patient_communication;safety_bias_fairness;llm_foundation;cost_economics;rag_retrieval
+2607.29266v1,2026-07-31,OsteoCAD: A Human-in-the-Loop Cloud-Edge Framework for Bone Tumor Segmentation,clinical_evaluation
+2607.06598v1,2026-07-06,"Non-contact, Real-time, Heart-rate Measurement using Image Processing with Commodity Cameras and AI Agents",agents;wearable_remote
+2606.25606v1,2026-06-24,Expresso-AI: Explainable Video-Based Deep Learning Models for Depression Diagnosis,diagnosis_prediction;mental_health;explainability
+2608.18080v1,2026-05-31,"Large Language Models in Mental Health: A Systematic Review of Applications, Innovations, and Ethical Challenges",diagnosis_prediction;mental_health;llm_foundation;explainability;ehr_clinical_data;agents;wearable_remote
+2605.24678v2,2026-05-23,Exploration of Perceptual Speech Features for Clinical Decision-Support in Mental Health Care,mental_health;explainability;ehr_clinical_data
+2605.22842v1,2026-05-12,The Misattribution Gap: When Memory Poisoning Looks Like Model Failure in Agentic AI Systems,patient_communication;safety_bias_fairness;explainability;agents
+2605.10601v1,2026-05-11,The Open-Box Fallacy: Why AI Deployment Needs a Calibrated Verification Regime,explainability
+2604.23674v1,2026-04-26,Vibe Medicine: Redefining Biomedical Research Through Human-AI Co-Work,patient_communication;diagnosis_prediction;safety_bias_fairness;clinical_evaluation;llm_foundation;explainability;privacy_federated;agents
+2604.10833v1,2026-04-12,Speaking to No One: Ontological Dissonance and the Double Bind of Conversational AI,mental_health;safety_bias_fairness
+2603.27994v1,2026-03-30,"Filipino Students' Willingness to Use AI for Mental Health Support: A Path Analysis of Behavioral, Emotional, and Contextual Factors",mental_health;safety_bias_fairness;explainability;privacy_federated
+2604.16364v2,2026-03-21,Clinical Note Bloat Reduction for Efficient LLM Use,patient_communication;diagnosis_prediction;llm_foundation;cost_economics;ehr_clinical_data
+2603.18375v3,2026-03-19,Relationship-Centered Care: Relatedness and Responsible Design for Human Connections in Mental-Health Care,patient_communication;mental_health;agents;guideline_evidence
+2603.17234v1,2026-03-18,"Deployment and Evaluation of an EHR-integrated, Large Language Model-Powered Tool to Triage Surgical Patients",patient_communication;diagnosis_prediction;clinical_evaluation;llm_foundation;ehr_clinical_data;guideline_evidence
+2603.16204v1,2026-03-17,"A Scoping Review of AI-Driven Digital Interventions in Mental Health Care: Mapping Applications Across Screening, Support, Monitoring, Prevention, and Clinical Education",patient_communication;mental_health;safety_bias_fairness;llm_foundation;privacy_federated;agents
+2604.16343v1,2026-03-16,Elder-Sim: A Psychometrically Validated Platform for Personality-Stable Elderly Digital Twins,patient_communication;mental_health;clinical_evaluation;llm_foundation;agents
+2603.13168v1,2026-03-13,Developing and evaluating a chatbot to support maternal health care,patient_communication;clinical_evaluation;llm_foundation;explainability;guideline_evidence
+2603.12953v1,2026-03-13,Delta1 with LLM: symbolic and neural integration for credible and explainable reasoning,patient_communication;llm_foundation;explainability
+2603.00757v1,2026-02-28,Identifying and Characterising Response in Clinical Trials: Development and Validation of a Machine Learning Approach in Colorectal Cancer,patient_communication;clinical_evaluation;explainability;ehr_clinical_data
+2602.00065v2,2026-01-20,Responsible Evaluation of AI for Mental Health,mental_health;safety_bias_fairness;clinical_evaluation
+2512.22601v1,2025-12-27,"Tyee: A Unified, Modular, and Fully-Integrated Configurable Toolkit for Intelligent Physiological Health Care",
+2512.09048v2,2025-12-09,Monitoring Deployed AI Systems in Health Care,patient_communication;safety_bias_fairness;cost_economics
+2511.18274v2,2025-11-23,Clinician-Directed Large Language Model Software Generation for Therapeutic Interventions in Physical Rehabilitation,patient_communication;clinical_evaluation;llm_foundation;wearable_remote
+2511.09008v2,2025-11-12,A Neurosymbolic Approach to Natural Language Formalization and Verification,llm_foundation
+2511.08072v1,2025-11-11,Clustering-based Anomaly Detection in Multivariate Time Series Data,
+2510.26188v1,2025-10-30,Predicting All-Cause Hospital Readmissions from Medical Claims Data of Hospitalised Patients,patient_communication;cost_economics
+2512.08939v1,2025-10-27,Assessing the Human-Likeness of LLM-Driven Digital Twins in Simulating Health Care System Trust,llm_foundation;explainability
+2510.16085v1,2025-10-17,MoPHES:Leveraging on-device LLMs as Agent for Mobile Psychological Health Evaluation and Support,diagnosis_prediction;mental_health;clinical_evaluation;llm_foundation;privacy_federated;agents
+2510.14332v1,2025-10-16,A Robust Classification Method using Hybrid Word Embedding for Early Diagnosis of Alzheimer's Disease,patient_communication;diagnosis_prediction;safety_bias_fairness
+2510.10805v1,2025-10-12,Therapeutic AI and the Hidden Risks of Over-Disclosure: An Embedded AI-Literacy Framework for Mental Health Privacy,mental_health;safety_bias_fairness;llm_foundation;explainability;privacy_federated
+2510.07409v1,2025-10-08,"Position: AI Will Transform Neuropsychology Through Mental Health Digital Twins for Dynamic Mental Health Care, Especially for ADHD",patient_communication;diagnosis_prediction;mental_health
+2510.12813v1,2025-10-08,Cancer Diagnosis Categorization in Electronic Health Records Using Large Language Models and BioBERT: Model Performance Evaluation Study,patient_communication;diagnosis_prediction;safety_bias_fairness;clinical_evaluation;llm_foundation;ehr_clinical_data
+2509.26605v2,2025-09-30,Fine-tuning Behavioral Cloning Policies with Preference-Based Reinforcement Learning,agents
+2509.12102v1,2025-09-15,Can LLMs Address Mental Health Questions? A Comparison with Human Therapists,patient_communication;mental_health;llm_foundation;explainability;privacy_federated;agents
+2509.10095v1,2025-09-12,Arabic Large Language Models for Medical Text Generation,patient_communication;diagnosis_prediction;clinical_evaluation;llm_foundation
+2509.00615v1,2025-08-30,Federated Survival Analysis with Node-Level Differential Privacy: Private Kaplan-Meier Curves,patient_communication;safety_bias_fairness;privacy_federated
+2508.09809v2,2025-08-13,A Comprehensive Review of Datasets for Clinical Mental Health AI Systems,diagnosis_prediction;mental_health;safety_bias_fairness
+2506.19279v1,2025-06-24,EmoStage: A Framework for Accurate Empathetic Response Generation via Perspective-Taking and Phase Recognition,mental_health;llm_foundation;privacy_federated
+2506.09362v3,2025-06-11,"""I Said Things I Needed to Hear Myself"": Peer Support as an Emotional, Organisational, and Sociotechnical Practice in Singapore",patient_communication;mental_health;explainability;wearable_remote
+2506.08229v1,2025-06-09,AI-Driven Early Detection of Cardiovascular Diseases: Reducing Healthcare Costs and improving patient Outcomes,patient_communication;diagnosis_prediction;cost_economics
+2506.00081v2,2025-05-30,Artificial Empathy: AI based Mental Health,mental_health;llm_foundation;privacy_federated
+2505.14038v1,2025-05-20,ProMind-LLM: Proactive Mental Health Care via Causal Reasoning with Sensor Data,diagnosis_prediction;mental_health;safety_bias_fairness;clinical_evaluation;llm_foundation;explainability
+2505.06971v1,2025-05-11,The promise and perils of AI in medicine,patient_communication;diagnosis_prediction;safety_bias_fairness;clinical_evaluation;explainability;privacy_federated
+2507.21054v1,2025-04-15,"High hopes for ""Deep Medicine""? AI, economics, and the future of care",patient_communication;cost_economics
+2504.08418v1,2025-04-11,seeBias: A Comprehensive Tool for Assessing and Visualizing AI Fairness,diagnosis_prediction;safety_bias_fairness;clinical_evaluation;guideline_evidence
+2503.11384v1,2025-03-14,Optimizing Large Language Models for Detecting Symptoms of Comorbid Depression or Anxiety in Chronic Diseases: Insights from Patient Messages,patient_communication;mental_health;llm_foundation
+2503.09326v1,2025-03-12,A Survey on Enhancing Causal Reasoning Ability of Large Language Models,safety_bias_fairness;clinical_evaluation;llm_foundation
+2503.03797v1,2025-03-05,VoiceGRPO: Modern MoE Transformers with Group Relative Policy Optimization GRPO for AI Voice Health Care Applications on Voice Pathology Detection,diagnosis_prediction;medical_imaging
+2503.16456v2,2025-02-21,Position: Beyond Assistance -- Reimagining LLMs as Ethical and Adaptive Co-Creators in Mental Health Care,mental_health;safety_bias_fairness;clinical_evaluation;llm_foundation;explainability;guideline_evidence
+2502.10526v2,2025-02-14,Tempo: Helping Data Scientists and Domain Experts Collaboratively Specify Predictive Modeling Tasks,diagnosis_prediction
+2502.01141v1,2025-02-03,Beyond Yes or No: Predictive Compliance Monitoring Approaches for Quantifying the Magnitude of Compliance Violations,diagnosis_prediction;clinical_evaluation
+2502.00495v1,2025-02-01,Looking into the Future of Health-Care Services: Can Life-Like Agents Change the Future of Health-Care Services?,patient_communication;agents
+2501.05197v1,2025-01-09,An Algorithmic Approach for Causal Health Equity: A Look at Race Differentials in Intensive Care Unit (ICU) Outcomes,patient_communication;diagnosis_prediction;cost_economics
+2412.20512v1,2024-12-29,Dive into Time-Series Anomaly Detection: A Decade Review,
+2412.17616v3,2024-12-23,Facial Expression Analysis and Its Potentials in IoT Systems: A Contemporary Survey,patient_communication;mental_health;wearable_remote
+2412.17572v1,2024-12-23,Empathetic Response in Audio-Visual Conversations Using Emotion Preference Optimization and MambaCompressor,mental_health
+2501.10374v1,2024-12-13,"Artificial Intelligence in Mental Health and Well-Being: Evolution, Current Applications, Future Challenges, and Emerging Evidence",patient_communication;diagnosis_prediction;mental_health;safety_bias_fairness;privacy_federated
+2501.10370v1,2024-12-13,"Harnessing Large Language Models for Mental Health: Opportunities, Challenges, and Ethical Considerations",patient_communication;mental_health;safety_bias_fairness;clinical_evaluation;llm_foundation;privacy_federated;guideline_evidence
+2412.03796v1,2024-12-05,Automated Multi-Label Annotation for Mental Health Illnesses Using Large Language Models,patient_communication;diagnosis_prediction;mental_health;safety_bias_fairness;llm_foundation
+2411.17254v1,2024-11-26,Semantic Data Augmentation for Long-tailed Facial Expression Recognition,
+2411.13590v1,2024-11-18,Deep learning waterways for rural infrastructure development,
+2411.12756v1,2024-11-15,FedCL-Ensemble Learning: A Framework of Federated Continual Learning with Ensemble Transfer Learning Enhanced for Alzheimer's MRI Classifications while Preserving Privacy,patient_communication;diagnosis_prediction;safety_bias_fairness;privacy_federated;medical_imaging
+2410.16322v2,2024-10-17,"SouLLMate: An Application Enhancing Diverse Mental Health Support with Adaptive LLMs, Prompt Engineering, and RAG Techniques",mental_health;clinical_evaluation;llm_foundation;rag_retrieval
+2409.19120v1,2024-09-27,Secure Multiparty Generative AI,llm_foundation;privacy_federated
+2409.16098v2,2024-09-24,The Digital Transformation in Health: How AI Can Improve the Performance of Health Systems,patient_communication;diagnosis_prediction
+2409.13000v2,2024-09-19,Introducing the Large Medical Model: State of the art healthcare cost and risk prediction with transformers trained on patient event sequences,patient_communication;diagnosis_prediction;llm_foundation;cost_economics
+2410.02783v1,2024-09-17,Enhancing Mental Health Support through Human-AI Collaboration: Toward Secure and Empathetic AI-enabled chatbots,mental_health;safety_bias_fairness;llm_foundation;explainability;privacy_federated;guideline_evidence
+2409.13748v2,2024-09-12,TheraGen: Therapy for Every Generation,mental_health;clinical_evaluation;privacy_federated;guideline_evidence
+2409.15323v1,2024-09-06,Introducing ELLIPS: An Ethics-Centered Approach to Research on LLM-Based Inference of Psychiatric Conditions,mental_health;clinical_evaluation;llm_foundation;medical_imaging
+2409.00391v1,2024-08-31,Density Adaptive Attention-based Speech Network: Enhancing Feature Understanding for Mental Health Disorders,diagnosis_prediction;mental_health;safety_bias_fairness;explainability;wearable_remote
+2408.11288v1,2024-08-21,Applying and Evaluating Large Language Models in Mental Health Care: A Scoping Review of Human-Assessed Generative Tasks,mental_health;safety_bias_fairness;clinical_evaluation;llm_foundation;privacy_federated
+2409.00041v1,2024-08-18,Needles in Needle Stacks: Meaningful Clinical Information Buried in Noisy Waveform Data,patient_communication;safety_bias_fairness;cost_economics
+2408.09358v2,2024-08-18,Panorama Tomosynthesis from Head CBCT with Simulated Projection Geometry,patient_communication;diagnosis_prediction;medical_imaging
+2408.04154v1,2024-08-08,The Data Addition Dilemma,safety_bias_fairness
+2408.03650v2,2024-08-07,Towards Multimodal Emotional Support Conversation Systems,patient_communication;diagnosis_prediction;mental_health;clinical_evaluation;llm_foundation
+2407.17494v1,2024-07-04,AI in Remote Patient Monitoring,patient_communication;diagnosis_prediction
+2406.16223v1,2024-06-23,Continuous Output Personality Detection Models via Mixed Strategy Training,patient_communication
+2406.15966v1,2024-06-23,Evaluating the Effectiveness of the Foundational Models for Q&A Classification in Mental Health care,patient_communication;mental_health;llm_foundation
+2406.12449v1,2024-06-18,Retrieval-Augmented Generation for Generative Artificial Intelligence in Medicine,rag_retrieval
+2407.15006v1,2024-05-30,"Fair Machine Learning for Healthcare Requires Recognizing the Intersectionality of Sociodemographic Factors, a Case Study",patient_communication;diagnosis_prediction;safety_bias_fairness
+2405.09300v1,2024-05-15,Comparing the Efficacy of GPT-4 and Chat-GPT in Mental Health Care: A Blind Assessment of Large Language Models for Psychological Support,mental_health;clinical_evaluation;llm_foundation
+2405.07590v1,2024-05-13,Evaluating the Explainable AI Method Grad-CAM for Breath Classification on Newborn Time Series Data,clinical_evaluation;explainability;cost_economics
+2405.06802v3,2024-05-10,Summarizing Radiology Reports Findings into Impressions,patient_communication;medical_imaging
+2405.05795v1,2024-05-09,Enhancing Suicide Risk Detection on Social Media through Semi-Supervised Deep Label Smoothing,mental_health
+2406.07558v2,2024-04-21,An AI-Enabled Framework Within Reach for Enhancing Healthcare Sustainability and Fairness,diagnosis_prediction;safety_bias_fairness
+2406.11852v2,2024-04-02,Risks from Language Models for Automated Mental Healthcare: Ethics and Structure for Implementation,mental_health;safety_bias_fairness;clinical_evaluation;agents;guideline_evidence
+2404.02181v1,2024-04-02,Leveraging Machine Learning for Early Autism Detection via INDT-ASD Indian Database,diagnosis_prediction;clinical_evaluation
+2403.19790v1,2024-03-28,Bespoke Large Language Models for Digital Triage Assistance in Mental Health Care,patient_communication;mental_health;llm_foundation;ehr_clinical_data
+2403.14814v3,2024-03-21,The opportunities and risks of large language models in mental health,mental_health;llm_foundation
+2403.10158v2,2024-03-15,Functional Graph Convolutional Networks: A unified multi-task and multi-modal learning framework to facilitate health and social-care insights,explainability
+2403.06471v1,2024-03-11,Toward Robust Canine Cardiac Diagnosis: Deep Prototype Alignment Network-Based Few-Shot Segmentation in Veterinary Medicine,diagnosis_prediction;safety_bias_fairness
+2402.17546v1,2024-02-27,COCOA: CBT-based Conversational Counseling Agent using Memory Specialized in Cognitive Distortions and Dynamic Prompt,mental_health;clinical_evaluation;llm_foundation;agents
+2403.07911v2,2024-02-27,"Standing on FURM ground -- A framework for evaluating Fair, Useful, and Reliable AI Models in healthcare systems",patient_communication;clinical_evaluation
+2402.15205v1,2024-02-23,Enhancing ICU Patient Recovery: Using LLMs to Assist Nurses in Diary Writing,patient_communication;llm_foundation
+2402.12738v1,2024-02-20,Can Large Language Models be Used to Provide Psychological Counselling? An Analysis of GPT-4-Generated Responses Using Role-play Dialogues,patient_communication;mental_health;clinical_evaluation;llm_foundation
+2402.08789v1,2024-02-13,Leveraging cough sounds to optimize chest x-ray usage in low-resource settings,patient_communication;diagnosis_prediction;cost_economics;medical_imaging
+2402.06563v1,2024-02-09,What is Hiding in Medicine's Dark Matter? Learning with Missing Data in Medical Practices,patient_communication;safety_bias_fairness;ehr_clinical_data
+2402.06487v1,2024-02-09,"Le Nozze di Giustizia. Interactions between Artificial Intelligence, Law, Logic, Language and Computation with some case studies in Traffic Regulations and Health Care",
+2402.05127v1,2024-02-05,Illuminate: A novel approach for depression detection with explainable analysis and proactive therapy using prompt engineering,diagnosis_prediction;mental_health;clinical_evaluation;llm_foundation;explainability
+2401.15966v1,2024-01-29,Response Generation for Cognitive Behavioral Therapy with Large Language Models: Comparative Study with Socratic Questioning,patient_communication;mental_health;clinical_evaluation;llm_foundation
+2401.14362v3,2024-01-25,The Typing Cure: Experiences with Large Language Model Chatbots for Mental Health Support,mental_health;llm_foundation
+2401.10516v1,2024-01-19,Episodic Reinforcement Learning with Expanded State-reward Space,clinical_evaluation;cost_economics
+2401.02984v3,2024-01-01,Large Language Models in Mental Health Care: a Scoping Review,patient_communication;diagnosis_prediction;mental_health;safety_bias_fairness;clinical_evaluation;llm_foundation;cost_economics;guideline_evidence
+2312.11569v1,2023-12-18,Application of AI in Nutrition,patient_communication;cost_economics
+2311.16312v1,2023-11-27,Domain-Specific Deep Learning Feature Extractor for Diabetic Foot Ulcer Detection,patient_communication;clinical_evaluation
+2311.13857v1,2023-11-23,Challenges of Large Language Models for Mental Health Counseling,mental_health;safety_bias_fairness;llm_foundation;explainability;privacy_federated
+2311.09243v1,2023-11-12,Evaluating the Efficacy of Interactive Language Therapy Based on LLM for High-Functioning Autistic Adolescent Psychological Counseling,patient_communication;mental_health;clinical_evaluation;llm_foundation;privacy_federated
+2310.10928v1,2023-10-17,Using Audio Data to Facilitate Depression Risk Assessment in Primary Health Care,patient_communication;diagnosis_prediction;mental_health;safety_bias_fairness;privacy_federated
+2310.08406v1,2023-10-12,Tightening Bounds on Probabilities of Causation By Merging Datasets,patient_communication;clinical_evaluation
+2309.08560v2,2023-09-15,Deep Reinforcement Learning for Efficient and Fair Allocation of Health Care Resources,patient_communication;safety_bias_fairness
+2309.00252v1,2023-09-01,Interpretable Medical Imagery Diagnosis with Self-Attentive Transformers: A Review of Explainable AI for Health Care,diagnosis_prediction;explainability
+2309.12339v1,2023-08-24,Considerations for health care institutions training large language models on electronic health records,llm_foundation;cost_economics;ehr_clinical_data
+2307.13704v3,2023-07-21,eXplainable Artificial Intelligence (XAI) in aging clock models,diagnosis_prediction;explainability
+2307.04973v1,2023-07-11,SAM-U: Multi-box prompts triggered uncertainty estimation for reliable SAM in medical image,diagnosis_prediction;safety_bias_fairness
+2307.00965v1,2023-07-03,OpenClinicalAI: An Open and Dynamic Model for Alzheimer's Disease Diagnosis,patient_communication;diagnosis_prediction
+2306.09824v1,2023-06-16,Process Knowledge-infused Learning for Clinician-friendly Explanations,patient_communication;diagnosis_prediction;mental_health;clinical_evaluation
+2306.06649v1,2023-06-11,Efficient Learning of Minimax Risk Classifiers in High Dimensions,
+2306.01970v1,2023-06-03,Temporal-spatial Correlation Attention Network for Clinical Data Analysis in Intensive Care Unit,diagnosis_prediction;ehr_clinical_data
+2305.17299v1,2023-05-26,Improving Stability in Decision Tree Models,diagnosis_prediction;safety_bias_fairness;explainability
+2305.18091v1,2023-05-25,"Quantum 3.0: Quantum Learning, Quantum Heuristics and Beyond",
+2305.11969v1,2023-05-19,Logic-Based Benders Decomposition in Answer Set Programming for Chronic Outpatients Scheduling,patient_communication
+2305.00566v1,2023-04-30,AI-Assisted Ethics? Considerations of AI Simulation for the Ethical Assessment and Design of Assistive Technologies,clinical_evaluation
+2304.04468v3,2023-04-10,Toward Cohort Intelligence: A Universal Cohort Representation Learning Framework for Electronic Health Record Analysis,patient_communication;diagnosis_prediction;clinical_evaluation;cost_economics;ehr_clinical_data
+2304.03392v4,2023-04-06,Personalising Digital Health Behaviour Change Interventions using Machine Learning and Domain Knowledge,patient_communication;clinical_evaluation
+2304.00311v1,2023-04-01,Medical Pathologies Prediction : Systematic Review and Proposed Approach,patient_communication;diagnosis_prediction;medical_imaging
+2304.00025v1,2023-03-31,Demo Alleviate: Demonstrating Artificial Intelligence Enabled Virtual Assistance for Telehealth: The Mental Health Case,patient_communication;mental_health;safety_bias_fairness;explainability
+2303.16908v1,2023-03-29,Hybrid ACO-CI Algorithm for Beam Design problems,
+2302.12075v1,2023-02-23,Explorative analysis of human disease-symptoms relations using the Convolutional Neural Network,diagnosis_prediction
+2302.00848v1,2023-02-02,"Causal Effect Estimation: Recent Advances, Challenges, and Opportunities",
+2302.00096v1,2023-01-31,"Ignore, Trust, or Negotiate: Understanding Clinician Acceptance of AI-Based Treatment Recommendations in Health Care",patient_communication;explainability
+2301.07060v1,2023-01-17,"Monotonicity for AI ethics and society: An empirical study of the monotonic neural additive model in criminology, education, health care, and finance",patient_communication;safety_bias_fairness;explainability
+2301.10012v1,2023-01-07,The Role of Digital Agriculture in Transforming Rural Areas into Smart Villages,
+2301.01026v4,2023-01-03,Continual Causal Effect Estimation: Challenges and Opportunities,safety_bias_fairness;cost_economics
+2212.12948v1,2022-12-25,Human Health Indicator Prediction from Gait Video,diagnosis_prediction;safety_bias_fairness;wearable_remote
+2212.09633v1,2022-12-19,Towards Assessing Data Bias in Clinical Trials,diagnosis_prediction;safety_bias_fairness;clinical_evaluation;privacy_federated;guideline_evidence
+2212.11136v2,2022-12-16,"It is not ""accuracy vs. explainability"" -- we need both for trustworthy AI systems",safety_bias_fairness;explainability
+2212.08111v1,2022-12-08,Routine Outcome Monitoring in Psychotherapy Treatment using Sentiment-Topic Modelling Approach,patient_communication;clinical_evaluation
+2211.14313v1,2022-11-21,AICOM-MP: an AI-based Monkeypox Detector for Resource-Constrained Environments,
+2211.06694v1,2022-11-12,Pain Detection in Masked Faces during Procedural Sedation,patient_communication;medical_imaging
+2210.07340v2,2022-10-13,LEAVES: Learning Views for Time-Series Biobehavioral Data in Contrastive Learning,
+2210.08974v1,2022-10-04,Coordinated Science Laboratory 70th Anniversary Symposium: The Future of Computing,privacy_federated
+2212.00119v1,2022-10-04,Incentivising cooperation by rewarding the weakest member,agents
+2209.05741v2,2022-09-13,SkIn: Skimming-Intensive Long-Text Classification Using BERT for Medical Corpus,cost_economics
+2208.07087v2,2022-08-15,Estimating Personal Model Parameters from Utterances in Model-based Reminiscence,mental_health;clinical_evaluation
+2208.03143v1,2022-08-05,Deep Learning and Health Informatics for Smart Monitoring and Diagnosis,patient_communication;diagnosis_prediction;cost_economics;medical_imaging
+2207.14584v2,2022-07-29,Decentralized Machine Learning for Intelligent Health Care Systems on the Computing Continuum,diagnosis_prediction;clinical_evaluation;privacy_federated;ehr_clinical_data
+2207.13913v2,2022-07-28,A health telemonitoring platform based on data integration from different sources,patient_communication;clinical_evaluation
+2208.02226v1,2022-07-27,Internet of Things (IoT) based ECG System for Rural Health Care,patient_communication;diagnosis_prediction;cost_economics;wearable_remote
+2206.09532v1,2022-06-20,Hands-on Wireless Sensing with Wi-Fi: A Tutorial,safety_bias_fairness;cost_economics;wearable_remote
+2206.04132v1,2022-06-08,Forecasting AI Progress: Evidence from a Survey of Machine Learning Researchers,
+2207.01514v1,2022-06-07,Improving Medical Systems in the United States using Knowledge-Based Systems,patient_communication;cost_economics
+2206.03286v1,2022-06-03,Examining the Implementation of Digital Health to Strengthen the COVID-19 Pandemic Response and Recovery and Scale up Equitable Vaccine Access in African Countries,patient_communication;diagnosis_prediction
+2205.08404v1,2022-05-17,A Comprehensive Study on Artificial Intelligence Algorithms to Implement Safety Using Communication Technologies,safety_bias_fairness
+2205.08292v4,2022-05-17,Providing Location Information at Edge Networks: A Federated Learning-Based Approach,privacy_federated;cost_economics
+2205.08123v1,2022-05-17,"Using artificial intelligence to detect chest X-rays with no significant findings in a primary health care setting in Oulu, Finland",patient_communication;diagnosis_prediction;safety_bias_fairness;medical_imaging
+2205.05306v1,2022-05-11,The Conflict Between Explainable and Accountable Decision-Making Algorithms,patient_communication;explainability;agents
+2204.06549v2,2022-04-13,Optimally Designing Cybersecurity Insurance Contracts to Encourage the Sharing of Medical Data,patient_communication;privacy_federated;agents
+2204.06076v2,2022-04-12,Hybrid Feature- and Similarity-Based Models for Joint Prediction and Interpretation,patient_communication;diagnosis_prediction;explainability;ehr_clinical_data
+2203.13472v1,2022-03-25,Facial Expression Recognition with Swin Transformer,patient_communication
+2203.11279v1,2022-03-16,EEG based Emotion Recognition: A Tutorial and Review,
+2203.04921v1,2022-03-09,The Severity Prediction of The Binary And Multi-Class Cardiovascular Disease -- A Machine Learning-Based Fusion Approach,patient_communication;diagnosis_prediction
+2203.02959v1,2022-03-06,A Perspective on Robotic Telepresence and Teleoperation using Cognition: Are we there yet?,safety_bias_fairness;explainability
+2202.11098v1,2022-02-21,Hybrid Learning for Orchestrating Deep Learning Inference in Multi-user Edge-cloud Networks,patient_communication
+2202.10541v1,2022-02-21,Online Learning for Orchestration of Inference in Multi-User End-Edge-Cloud Networks,privacy_federated
+2202.09480v1,2022-02-19,Reciprocity in Machine Learning,
+2203.03711v1,2022-02-15,"Algorithmic audits of algorithms, and the law",
+2202.06851v2,2022-02-14,HAKE: A Knowledge Engine Foundation for Human Activity Understanding,explainability
+2201.07034v1,2022-01-14,A Semantic Web Technology Index,patient_communication;guideline_evidence
+2201.01405v2,2022-01-05,Mining Adverse Drug Reactions from Unstructured Mediums at Scale,patient_communication;cost_economics
+2111.01912v1,2021-10-31,Predicting Cancer Using Supervised Machine Learning: Mesothelioma,patient_communication;diagnosis_prediction;cost_economics;ehr_clinical_data
+2112.01226v1,2021-10-31,"Role of Artificial Intelligence, Clinicians & Policymakers in Clinical Decision Making: A Systems Viewpoint",
+2111.08441v1,2021-10-30,Use of machine learning in geriatric clinical care for chronic diseases: a systematic literature review,patient_communication;clinical_evaluation
+2110.15484v1,2021-10-29,Cycle-Balanced Representation Learning For Counterfactual Inference,safety_bias_fairness;clinical_evaluation
+2110.12891v1,2021-10-19,Local Explanations for Clinical Search Engine results,patient_communication;clinical_evaluation;explainability
+2109.06139v1,2021-09-13,Application of Machine Learning in Early Recommendation of Cardiac Resynchronization Therapy,patient_communication;diagnosis_prediction;cost_economics
+2107.12626v2,2021-07-27,Unsupervised Deep Anomaly Detection for Multi-Sensor Time-Series Signals,diagnosis_prediction
+2107.07045v1,2021-07-12,Explainable AI: current status and future directions,explainability
+2107.06833v1,2021-07-05,A Review-based Taxonomy for Secure Health Care Monitoring: Wireless Smart Cameras,patient_communication;ehr_clinical_data;wearable_remote
+2106.08376v2,2021-06-15,A Framework for Evaluating Post Hoc Feature-Additive Explainers,clinical_evaluation;explainability
+2106.02498v1,2021-06-04,Towards Fairness Certification in Artificial Intelligence,diagnosis_prediction;safety_bias_fairness;clinical_evaluation;guideline_evidence
+2106.01650v1,2021-06-03,Learning and Executing Re-usable Behaviour Trees from Natural Language Instruction,safety_bias_fairness;agents
+2105.07420v1,2021-05-16,Resource Planning for Hospitals Under Special Consideration of the COVID-19 Pandemic: Optimization and Sensitivity Analysis,diagnosis_prediction
+2104.14870v1,2021-04-30,Action in Mind: A Neural Network Approach to Action Recognition and Segmentation,patient_communication
+2104.10903v2,2021-04-22,Blockchain based Privacy-Preserved Federated Learning for Medical Images: A Case Study of COVID-19 CT Scans,patient_communication;privacy_federated;medical_imaging
+2104.10085v1,2021-04-20,Predicting Medical Interventions from Vital Parameters: Towards a Decision Support System for Remote Patient Monitoring,patient_communication;wearable_remote
+2104.07587v1,2021-04-15,Applying Personal Knowledge Graphs to Health,
+2103.09957v3,2021-03-18,CheXbreak: Misclassification Identification for Deep Learning Models Interpreting Chest X-rays,patient_communication;diagnosis_prediction;medical_imaging
+2103.09311v1,2021-03-16,Using a Personal Health Library-Enabled mHealth Recommender System for Self-Management of Diabetes Among Underserved Populations: Use Case for Knowledge Graphs and Linked Data,patient_communication;privacy_federated;cost_economics
+2103.08182v1,2021-03-15,Deep Neural Network Based Ensemble learning Algorithms for the healthcare system (diagnosis of chronic diseases),patient_communication;diagnosis_prediction;guideline_evidence
+2103.08178v1,2021-03-15,"Modeling and forecasting Spread of COVID-19 epidemic in Iran until Sep 22, 2021, based on deep learning",patient_communication
+2102.08633v3,2021-02-17,Open-Retrieval Conversational Machine Reading,
+2102.09001v1,2021-02-12,Towards AIOps in Edge Computing Environments,cost_economics
+2103.05101v1,2021-02-05,Video Action Recognition Using spatio-temporal optical flow video frames,
+2101.10739v2,2021-01-26,Dynamic prediction of time to event with survival curves,patient_communication;diagnosis_prediction
+2012.08678v2,2020-12-16,Improved Digital Therapy for Developmental Pediatrics Using Domain-Specific Artificial Intelligence: Machine Learning Study,wearable_remote
+2012.08254v1,2020-12-15,Designing a Mobile Social and Vocational Reintegration Assistant for Burn-out Outpatient Treatment,patient_communication;agents
